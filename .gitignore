@@ -1,0 +1,7 @@
+model.h5
+model.json
+.*
+!/.gitignore
+data/
+__*
+sdc simulator/
